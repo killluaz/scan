@@ -15,7 +15,7 @@ su sintaxis es muy facil  solo usaremos el comando scan y la direccion IP de nue
 
 scan X.X.X.X
 
-https://github.com/killluaz/scan/blob/main/Scan.jpg
+![](https://github.com/killluaz/scan/blob/main/Scan.jpg)
 
 ## 🎯 Para mas informacion visita la entrada en el blog a continuacion:
 
