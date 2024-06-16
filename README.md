@@ -4,5 +4,10 @@ El script aqui contenido sera de gran ayuda para atumatizar el proceso de recono
 
 ### :bulb: Uso y Prerrequisitos
 
+La herramienta usa Furious y NMAP para ejecutar las tareas de reconocimiento, puedes encontrar la herramienta de Furious en el siguiente enlace:
 
-## 🎯 Para mas informacion visita la entrada en el blog a continuacion
+https://github.com/liamg/furious
+
+## 🎯 Para mas informacion visita la entrada en el blog a continuacion:
+
+https://www.anubiscybersecurity.xyz/post/_scan
